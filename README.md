@@ -5,6 +5,8 @@ PARA RODAR
  ./a.out
 
  PARA PASSAR MUDANÇAS
-  git push origin 
+    git add .
+    git commit -m "Descrição das mudanças"
+    git push origin 
 
 MUDANÇAS

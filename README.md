@@ -3,3 +3,8 @@ PARA COMPILAR:
 
 PARA RODAR
  ./a.out
+
+ PARA PASSAR MUDANÇAS
+  git push origin 
+
+MUDANÇAS
